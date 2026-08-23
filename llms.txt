@@ -1,2 +1,25 @@
 # Elmira Plumbing
-HVAC services in Ontario.
+
+> Elmira Plumbing is a local HVAC company serving Elmira, Waterloo, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 669-4738  |  Email: contact@elmiraplumbing.ca  |  Website: https://elmiraplumbing.ca
+
+## Key pages
+
+- [Home](https://elmiraplumbing.ca/): Elmira Plumbing homepage with service overview and FAQ
+- [About](https://elmiraplumbing.ca/about/): About the company and service area
+- [Contact](https://elmiraplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://elmiraplumbing.ca/services/water-heaters/): Water Heaters in Elmira, Ontario
+- [Drain Cleaning](https://elmiraplumbing.ca/services/drain-cleaning/): Drain Cleaning in Elmira, Ontario
+- [Repiping](https://elmiraplumbing.ca/services/repiping/): Repiping in Elmira, Ontario
+- [Fixtures & Toilets](https://elmiraplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Elmira, Ontario
+- [Leak Detection & Repair](https://elmiraplumbing.ca/services/leak-detection/): Leak Detection & Repair in Elmira, Ontario
+- [Sump Pumps & Backwater](https://elmiraplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Elmira, Ontario
+- [Water Softeners & Filtration](https://elmiraplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Elmira, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Elmira are answered on the homepage.
